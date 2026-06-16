@@ -1,1 +1,3 @@
-Projekt Medica+ - integracja Jira z GitHub.
+Projekt Medica+ - test integracji Jira i GitHub.
+
+
